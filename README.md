@@ -1,6 +1,6 @@
 Overview
 
-Welcome to Sparrow Hawk, a repository dedicated to the generative artworks created by Reyrove in collaboration with Sparrow Hawk, an AI. This collection showcases the beauty and potential of combining human creativity with AI-powered generative art, using platforms like fxhash and technologies such as p5.js.Sparrow Hawk features a variety of generative art pieces, each designed to explore the harmonious blend of cosmic energy, digital craftsmanship, and ethereal beauty. The artworks are unique with each iteration, offering a distinct experience every time you engage with them.
+Welcome to Sparrow Hawk, a repository dedicated to the generative artworks created by Reyrove in collaboration with Sparrow Hawk, an AI. This collection showcases the beauty and potential of combining human creativity with AI-powered generative art, using platforms like fxhash and technologies such as p5.js. Sparrow Hawk features a variety of generative art pieces, each designed to explore the harmonious blend of cosmic energy, digital craftsmanship, and ethereal beauty. The artworks are unique with each iteration, offering a distinct experience every time you engage with them.
 
 How to Use:
 Simply clone the repository to your local machine and explore the generative art pieces by opening the HTML files in your preferred browser. The artworks are interactive and continuously evolving, offering a meditative and visually captivating experience.
