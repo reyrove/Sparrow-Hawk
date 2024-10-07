@@ -1,6 +1,3 @@
-Here is a **README.md** file for your GitHub repository:
-
-```markdown
 # Welcome to Sparrow Hawk 🌸💻
 
 A repository dedicated to the **generative artworks** created by **Reyrove** in collaboration with **Sparrow Hawk**, an AI. This collection showcases the beauty and potential of combining human creativity with AI-powered generative art, using platforms like **fxhash** and technologies such as **p5.js**. Each artwork in this collection explores the harmonious blend of cosmic energy, digital craftsmanship, and ethereal beauty, delivering a unique experience with every iteration.
@@ -38,4 +35,3 @@ This repository is **open to the public**. You are encouraged to explore, learn 
 
 With love and creativity,  
 **Reyrove** & **Sparrow Hawk**
-```
