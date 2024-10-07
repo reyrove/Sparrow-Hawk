@@ -29,7 +29,8 @@ Whether you're a fan of generative art, a developer exploring new techniques, or
 
 ## License
 
-This repository is **open to the public**. You are encouraged to explore, learn from, and build upon the works within it. However, please remember to attribute any public use or modification of these works to **Reyrove** and **Sparrow Hawk**.
+This repository is **open to the public**. You are encouraged to explore, learn from, and build upon the works within it. However, please remember to attribute any public use or modification of these works to **Reyrove** and **Sparrow Hawk**. Feel free to use, modify, and distribute the code, but please give credit where it's due!
+
 
 ## Minting on fxhash
 
