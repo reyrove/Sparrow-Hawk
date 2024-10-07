@@ -31,7 +31,17 @@ Whether you're a fan of generative art, a developer exploring new techniques, or
 
 This repository is **open to the public**. You are encouraged to explore, learn from, and build upon the works within it. However, please remember to attribute any public use or modification of these works to **Reyrove** and **Sparrow Hawk**.
 
----
+## Minting on fxhash
+
+If you want to mint your own version of these artworks or create something new, head over to **[fxhash](https://www.fxhash.xyz/)** and explore the possibilities.
+
+## Share Your Creations! 🌟
+
+You are more than welcome to modify the code and create your own generative art. If you do, I would love to see what you create!  
+Share your work with me on:
+- **[X (formerly Twitter)](https://twitter.com/reyrove)**
+- **[Instagram](https://www.instagram.com/frost_bond_coders)**
+- **[Facebook](https://www.facebook.com/profile.php?id=61567123732584)**
 
 With love and creativity,  
 **Reyrove** & **Sparrow Hawk**
