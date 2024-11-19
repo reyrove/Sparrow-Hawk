@@ -15,8 +15,6 @@ These artworks are not just creations; they're the result of a beautiful dance b
 - **Collaboration**: Created by Reyrove & Sparrow Hawk (AI)
 - **Concept**: Cosmic energy, fractals, motion
 
-![Celestial Frost Arcs]([artworks/Pop-Burst Dreamscape/pop-burst-dreamscape.png](https://raw.githubusercontent.com/reyrove/sparrow-hawk/main/artworks/Pop-Burst%20Dreamscape/pop-burst-dreamscape.png))
-
 ---
 
 ## **2. Frostbound Symphony: A Fusion of Ice and Music**
@@ -28,8 +26,6 @@ These artworks are not just creations; they're the result of a beautiful dance b
 - **Collaboration**: Created by Reyrove & Sparrow Hawk (AI)
 - **Concept**: Winter, symmetry, fluidity
 
-![Frostbound Symphony](path-to-image)
-
 ---
 
 ## **3. Pop-Burst Dreamscape: A Vivid Explosion of Color and Form**
@@ -40,9 +36,6 @@ These artworks are not just creations; they're the result of a beautiful dance b
 - **Tech Stack**: p5.js, JavaScript
 - **Collaboration**: Created by Reyrove & Sparrow Hawk (AI)
 - **Concept**: Chaos, color theory, abstract art
-
-![Pop-Burst Dreamscape](artworks/Pop-Burst%20Dreamscape/Pop-Burst%20Dreamscape.png)
-
 
 ---
 
