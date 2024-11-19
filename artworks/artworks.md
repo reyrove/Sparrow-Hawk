@@ -10,7 +10,7 @@ These artworks are not just creations; they're the result of a beautiful dance b
 
 *Celestial Frost Arcs* is a cosmic ballet of swirling arcs, representing the energetic flows that permeate the universe. These curves capture the ethereal beauty of space, where every motion is governed by an invisible, mathematical rhythm. Just like the stars, it’s always in motion, always evolving.
 
-- **Minted on fxhash**: [Celestial Frost Arcs](https://www.fxhash.xyz)
+- **Minted on fxhash**: [Celestial Frost Arcs](https://www.fxhash.xyz/generative/31119)
 - **Tech Stack**: p5.js, JavaScript
 - **Collaboration**: Created by Reyrove & Sparrow Hawk (AI)
 - **Concept**: Cosmic energy, fractals, motion
@@ -21,7 +21,7 @@ These artworks are not just creations; they're the result of a beautiful dance b
 
 *Frostbound Symphony* is where winter meets sound, where every frozen curve dances in harmony to its own silent melody. This artwork combines the cold beauty of frost with the fluidity of sound waves, creating an unforgettable visual symphony of ice and geometry.
 
-- **Minted on fxhash**: [Frostbound Symphony](https://www.fxhash.xyz)
+- **Minted on fxhash**: [Frostbound Symphony](https://www.fxhash.xyz/generative/31215)
 - **Tech Stack**: p5.js, JavaScript
 - **Collaboration**: Created by Reyrove & Sparrow Hawk (AI)
 - **Concept**: Winter, symmetry, fluidity
@@ -32,7 +32,7 @@ These artworks are not just creations; they're the result of a beautiful dance b
 
 *Pop-Burst Dreamscape* takes you on a whirlwind of chaotic color explosions, where vibrant bursts of energy form and dissolve into new, abstract worlds. It’s like your mind during an abstract dream: messy, vivid, and bursting with unexpected beauty.
 
-- **Minted on fxhash**: [Pop-Burst Dreamscape](https://www.fxhash.xyz)
+- **Minted on fxhash**: [Pop-Burst Dreamscape](https://www.fxhash.xyz/generative/31209)
 - **Tech Stack**: p5.js, JavaScript
 - **Collaboration**: Created by Reyrove & Sparrow Hawk (AI)
 - **Concept**: Chaos, color theory, abstract art
@@ -51,9 +51,9 @@ Minted on **fxhash** as **NFTs**, these artworks continue to evolve with each ne
 
 You can explore and mint these generative artworks directly on fxhash:
 
-- **[Celestial Frost Arcs](https://www.fxhash.xyz)**
-- **[Frostbound Symphony](https://www.fxhash.xyz)**
-- **[Pop-Burst Dreamscape](https://www.fxhash.xyz)**
+- **[Celestial Frost Arcs](https://www.fxhash.xyz/generative/31119)**
+- **[Frostbound Symphony](https://www.fxhash.xyz/generative/31215)**
+- **[Pop-Burst Dreamscape](https://www.fxhash.xyz/generative/31209)**
 
 ---
 
@@ -71,8 +71,8 @@ Feel free to use, modify, and distribute the code and artwork, just don’t forg
 
 Feel free to dive into the code, tweak the parameters, and create your own versions. We’re all about supporting fellow creators. If you share what you create, we’d love to see it! You can always reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: [your-email@example.com](mailto:reyhanehdaneshdoost@gmail.com)
+- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/)
 
 With love, chaos, and creativity,
 
