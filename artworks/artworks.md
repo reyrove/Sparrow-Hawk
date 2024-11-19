@@ -15,7 +15,7 @@ These artworks are not just creations; they're the result of a beautiful dance b
 - **Collaboration**: Created by Reyrove & Sparrow Hawk (AI)
 - **Concept**: Cosmic energy, fractals, motion
 
-![Celestial Frost Arcs](artworks/Pop-Burst Dreamscape/pop-burst-dreamscape.png)
+![Celestial Frost Arcs]([artworks/Pop-Burst Dreamscape/pop-burst-dreamscape.png](https://raw.githubusercontent.com/reyrove/sparrow-hawk/main/artworks/Pop-Burst%20Dreamscape/pop-burst-dreamscape.png))
 
 ---
 
