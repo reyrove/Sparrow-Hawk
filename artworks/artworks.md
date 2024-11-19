@@ -41,7 +41,7 @@ These artworks are not just creations; they're the result of a beautiful dance b
 - **Collaboration**: Created by Reyrove & Sparrow Hawk (AI)
 - **Concept**: Chaos, color theory, abstract art
 
-![Pop-Burst Dreamscape](path-to-image)
+![Pop-Burst Dreamscape](artworks/Pop-Burst-Dreamscape/Pop-Burst-Dreamscape.png)
 
 ---
 
