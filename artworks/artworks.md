@@ -71,7 +71,7 @@ Feel free to use, modify, and distribute the code and artwork, just don’t forg
 
 Feel free to dive into the code, tweak the parameters, and create your own versions. We’re all about supporting fellow creators. If you share what you create, we’d love to see it! You can always reach out:
 
-- **Email**: [your-email@example.com](mailto:reyhanehdaneshdoost@gmail.com)
+- **Email**: [mailto:reyhanehdaneshdoost@gmail.com]
 - **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/)
 
 With love, chaos, and creativity,
