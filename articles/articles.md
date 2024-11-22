@@ -6,7 +6,7 @@ Welcome to the curated collection of articles by **Reyrove & Sparrow Hawk**. Thi
 
 ## **Articles List**
 
-### 1. **[Fourier Blooms – The Art of Parametric Curves and Recursive Trees](#)**  
+### 1. **[Fourier Blooms – The Art of Parametric Curves and Recursive Trees](https://www.fxhash.xyz/article/fourier-blooms-the-art-of-parametric-curves-and-recursive-trees) 
 Explore the mesmerizing world where parametric equations meet recursive tree-like structures. This article showcases the delicate dance of circles and curves, blending nature’s symmetry with mathematical beauty.
 
 ---
@@ -107,8 +107,8 @@ This collection is ever-growing! If you’d like to contribute or share your own
 
 ## **Contact**
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [yourlinkedinprofile](https://www.linkedin.com/in/yourprofile)
+- **[Email](mailto:reyhanehdaneshdoost@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/)**
 
 We’d love to hear your thoughts, see your creations, and collaborate on future projects!
 
