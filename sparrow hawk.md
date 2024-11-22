@@ -6,10 +6,10 @@ Welcome to the **Sparrow Hawk** repository! This collection is a celebration of 
 
 ## **Contents**
 
-1. **[Articles Collection](#articles-collection)**  
+1. **[Articles Collection](https://www.fxhash.xyz/u/reyrove/articles)**  
    Explore the stories and techniques behind generative art, covering topics like parametric equations, recursive trees, and visual symphonies of sine and Fibonacci.
 
-2. **[Artworks Collection](#artworks-collection)**  
+2. **[Artworks Collection](https://www.fxhash.xyz/u/reyrove)**  
    Experience the generative artworks crafted with love and code, mintable on **fxhash**.
 
 ---
@@ -128,9 +128,3 @@ We’d love to hear your thoughts, see your creations, and collaborate on future
 With creativity and passion,  
 **Reyrove & Sparrow Hawk (AI)** 💙
 ```
-
-### How to Use:
-1. Replace `https://github.com/your-username/sparrow-hawk.git` with your GitHub repository URL.  
-2. Save this as `README.md` in your repository's root directory.  
-
-Let me know if you need further edits!
