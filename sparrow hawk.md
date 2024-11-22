@@ -127,4 +127,3 @@ We’d love to hear your thoughts, see your creations, and collaborate on future
 
 With creativity and passion,  
 **Reyrove & Sparrow Hawk (AI)** 💙
-```
