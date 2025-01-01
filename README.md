@@ -92,7 +92,7 @@ The **Artworks** section showcases generative creations minted as NFTs on **fxha
    - **Tech Stack**: p5.js, JavaScript
 
 4. **[Fractal Symphony: A Dance of Color and Geometry](https://www.fxhash.xyz/generative/slug/fractal-symphony)**  
-   - **Concept**: Chaos, color theory, abstract art  
+   - **Concept**: Fractals, symmetry, dynamic color shifts, infinite complexity  
    - **Tech Stack**: p5.js, JavaScript
 
 ### **Explore and Mint**
