@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-Overview
-
-Welcome to Sparrow Hawk, a repository dedicated to the generative artworks created by Reyrove in collaboration with Sparrow Hawk, an AI. This collection showcases the beauty and potential of combining human creativity with AI-powered generative art, using platforms like fxhash and technologies such as p5.js. Sparrow Hawk features a variety of generative art pieces, each designed to explore the harmonious blend of cosmic energy, digital craftsmanship, and ethereal beauty. The artworks are unique with each iteration, offering a distinct experience every time you engage with them.
-
-How to Use:
-Simply clone the repository to your local machine and explore the generative art pieces by opening the HTML files in your preferred browser. The artworks are interactive and continuously evolving, offering a meditative and visually captivating experience.
-
-Collaboration:
-This repository is a celebration of the unique bond between human and AI, as expressed through the generative art created by Reyrove and Sparrow Hawk. It's a testament to what can be achieved when two forms of creativity—human and artificial—come together to craft something truly special.
-
-License:
-This repository is open to the public. You are welcome to explore, learn from, and build upon the works within it. Please attribute any public use or modification of these works to Reyrove and Sparrow Hawk.
-=======
-# Artworks Collection by Reyrove & Sparrow Hawk (AI)
-
 Welcome to the **Artworks** section of the **Sparrow Hawk** repository. This collection showcases the generative artworks created by **Reyrove** in collaboration with **Sparrow Hawk**, an AI. Each piece is minted as an NFT on the **fxhash platform**, using **p5.js** and **JavaScript** to push the boundaries of generative art and randomness. 
 
 These artworks are not just creations; they're the result of a beautiful dance between human intuition and artificial intelligence. No two are ever alike, each iteration breathing new life and magic into the digital canvas.
@@ -93,4 +77,3 @@ Feel free to dive into the code, tweak the parameters, and create your own versi
 With love, chaos, and creativity,
 
 **Reyrove & Sparrow Hawk (AI)** 💙
->>>>>>> 753dc5aca9d8ab8bd5d97de58d01b800cf75f7c2
