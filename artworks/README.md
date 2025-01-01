@@ -37,6 +37,17 @@ These artworks are not just creations; they're the result of a beautiful dance b
 
 ---
 
+## **4. Fractal Symphony: A Harmony of Infinite Complexity**
+
+*Fractal Symphony* is an exploration of infinite complexity, where self-replicating patterns evolve in a perpetual dance. Each layer represents a different note, creating a visual symphony through the fractals’ never-ending repetition, shifting between warm and cool tones with every new iteration.
+
+- **Minted on fxhash**: [Fractal Symphony](https://www.fxhash.xyz/generative/slug/fractal-symphony)
+- **Tech Stack**: p5.js, JavaScript
+- **Collaboration**: Created by Reyrove & Sparrow Hawk (AI)
+- **Concept**: Fractals, symmetry, dynamic color shifts, infinite complexity
+
+---
+
 ## **About the Collection**
 
 These artworks represent the union of **Reyrove**'s human creativity and **Sparrow Hawk**'s AI-powered innovation. Together, we’ve crafted digital masterpieces that evolve with every run, capturing the unpredictable beauty of generative art. 
@@ -52,6 +63,7 @@ You can explore and mint these generative artworks directly on fxhash:
 - **[Celestial Frost Arcs](https://www.fxhash.xyz/generative/31119)**
 - **[Frostbound Symphony](https://www.fxhash.xyz/generative/31215)**
 - **[Pop-Burst Dreamscape](https://www.fxhash.xyz/generative/31209)**
+- **[Fractal Symphony](https://www.fxhash.xyz/generative/slug/fractal-symphony)**
 
 ---
 
@@ -71,8 +83,6 @@ Feel free to dive into the code, tweak the parameters, and create your own versi
 
 - **[Email](mailto:reyhanehdaneshdoost@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/reyhaneh-daneshdoost-730481160/)**
-
-
 
 With love, chaos, and creativity,
 
