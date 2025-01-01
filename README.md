@@ -100,7 +100,8 @@ The **Artworks** section showcases generative creations minted as NFTs on **fxha
 You can explore and mint these generative artworks directly on fxhash:  
 - **[Celestial Frost Arcs](https://www.fxhash.xyz/generative/31119)**  
 - **[Frostbound Symphony](https://www.fxhash.xyz/generative/31215)**  
-- **[Pop-Burst Dreamscape](https://www.fxhash.xyz/generative/31209)**  
+- **[Pop-Burst Dreamscape](https://www.fxhash.xyz/generative/31209)**
+- **[Fractal Symphony](https://www.fxhash.xyz/generative/slug/fractal-symphony)** 
 
 ---
 
